@@ -1,0 +1,40 @@
+study_id,assessment_tool,domain,judgment,justification,source
+P02_Heaselgrave2019,TESTEX,eligibility criteria specified,YES,"Explicit inclusion criteria stated: age 18-35, RT >=3x/week for >=1yr, health questionnaire; explicit exclusion criteria also listed",primary full text
+P02_Heaselgrave2019,TESTEX,randomization method described,PARTIAL,"States participants were 'randomly allocated' but does not describe the randomization procedure/method (e.g. computer-generated sequence)",primary full text
+P02_Heaselgrave2019,TESTEX,allocation concealment,INSUFFICIENT INFORMATION,not described in the sections read,primary full text
+P02_Heaselgrave2019,TESTEX,groups similar at baseline,YES,"Table 1 shows no significant baseline differences in age/height/weight/body fat between groups",primary full text
+P02_Heaselgrave2019,TESTEX,outcome assessor blinding,NO (explicitly not blinded),"Text states: 'The same un-blinded operator performed all scans' for muscle thickness assessment",primary full text
+P02_Heaselgrave2019,TESTEX,intention-to-treat analysis,NOT CLEARLY REPORTED,"49 of 51 enrolled completed the study; the 2 withdrawals are described but it is not explicitly stated whether an ITT approach was used for the 49 analyzed",primary full text
+P02_Heaselgrave2019,TESTEX,exercise volume/adherence reported,YES,"Training adherence reported as 99.2% (482/486 sessions); external training and diet were monitored and reported",primary full text
+P03_Aube2022,TESTEX,eligibility criteria specified,YES,"Explicit inclusion criteria: age 18-35, >=3yrs RT experience with squat/1RM testing, relative squat strength >=1.5x BM; explicit exclusion criteria listed (joint pain history, substance use, etc.)",primary full text
+P03_Aube2022,TESTEX,randomization method described,PARTIAL,"Described as a 'balanced (using previous RT volume) and randomized' design - randomization was stratified by prior training volume tercile, which is described, but the underlying random allocation mechanism within terciles is not detailed",primary full text
+P03_Aube2022,TESTEX,allocation concealment,INSUFFICIENT INFORMATION,not described in the sections read,primary full text
+P03_Aube2022,TESTEX,groups similar at baseline,YES,"Table 1 shows no significant between-group differences in age, body mass, BF%, ROI-FFM, SMT, or prior weekly sets (PSN)",primary full text
+P03_Aube2022,TESTEX,outcome assessor blinding,YES,"Text states: 'The same 2 researchers... performed all of the pre-training and post-training measurements and were blinded to the experimental groups' for muscle thickness assessment",primary full text
+P03_Aube2022,TESTEX,intention-to-treat analysis,NO (per-protocol),"44 enrolled, 9 withdrew (unrelated to study + joint pain), 35 analyzed - this is a per-protocol/completers analysis, not stated as intention-to-treat",primary full text
+P03_Aube2022,TESTEX,exercise volume/adherence reported,PARTIAL,"Volume load (VL) is reported in detail (Results, Table 6), but an explicit session-adherence percentage (as in Heaselgrave) was not located in the sections read",primary full text
+M01_Schoenfeld2017,TESTEX or Downs-and-Black,all domains,INSUFFICIENT INFORMATION - AGGREGATE STUDY NOT ASSESSED,"This is a meta-analysis, not a primary trial - individual-study risk of bias within it is not re-assessed here; TESTEX/Downs-and-Black apply to PRIMARY trials, not to the meta-analysis itself",not applicable
+M02_Pelland2025,TESTEX or Downs-and-Black,all domains,INSUFFICIENT INFORMATION - AGGREGATE STUDY NOT ASSESSED,"Same reasoning as M01 - this is a meta-regression, not a primary trial",not applicable
+P01_Radaelli2015,TESTEX,all domains,INSUFFICIENT INFORMATION FOR MOST DOMAINS - PARTIAL DATA AVAILABLE,"Full text was read (see extraction_table.csv), but a full domain-by-domain TESTEX pass has not yet been completed for this study in this audit round. Known from full text: outcome assessor blinding not explicitly stated as blinded or unblinded for MT measurement; baseline group similarity was tested and reported as non-significant.",primary full text (partial RoB pass only)
+P04_Schoenfeld2019,TESTEX,all domains,INSUFFICIENT INFORMATION,Only an abstract has been read - a risk-of-bias assessment requires methods-section detail not yet available to this project,abstract only
+P05_Barbalho2019a,TESTEX,all domains,INSUFFICIENT INFORMATION,abstract only,abstract only
+P06_Barbalho2019b,TESTEX,all domains,INSUFFICIENT INFORMATION,abstract only,abstract only
+P07_Rantila2026,TESTEX,all domains,INSUFFICIENT INFORMATION,abstract only,abstract only
+P08_deCamargo2026,TESTEX,all domains,INSUFFICIENT INFORMATION,abstract only,abstract only
+P09_Barsuhn2025,TESTEX,all domains,INSUFFICIENT INFORMATION,abstract incomplete,abstract only (truncated)
+S01_Ostrowski1997,TESTEX,all domains,INSUFFICIENT INFORMATION,"study not independently retrieved - known only via a secondary citation",secondary source only
+P04_Schoenfeld2019,TESTEX,eligibility criteria specified,YES,"Explicit inclusion criteria: males 18-35yr, RT >=3x/week for >=1yr; explicit exclusion criteria listed",primary full text
+P04_Schoenfeld2019,TESTEX,randomization method described,PARTIAL,"Described as randomly assigned; specific randomization procedure (e.g. random-number generator, sequence concealment) not detailed in the sections read",primary full text
+P04_Schoenfeld2019,TESTEX,allocation concealment,INSUFFICIENT INFORMATION,not described in the sections read,primary full text
+P04_Schoenfeld2019,TESTEX,groups similar at baseline,YES,"No significant between-group differences at baseline for the reported anthropometric/MT measures",primary full text
+P04_Schoenfeld2019,TESTEX,outcome assessor blinding,YES,"Single technician performed all ultrasound measurements per described protocol; explicit blinding statement not directly located but a single consistent technician is noted",primary full text
+P04_Schoenfeld2019,TESTEX,intention-to-treat analysis,NO (per-protocol),"45 enrolled, 11 dropped out, 34 analyzed - per-protocol/completers analysis, not stated as ITT",primary full text
+P04_Schoenfeld2019,TESTEX,exercise volume/adherence reported,PARTIAL,"Volume load and training log data are described; an explicit session-adherence percentage was not located in the sections read",primary full text
+P08_deCamargo2026,TESTEX,eligibility criteria specified,YES,"Explicit inclusion criteria: 1-5yr consistent lower-limb RT experience, habitual quadriceps volume 12-20 sets/wk; 138 screened down to 29 randomized",primary full text (preprint)
+P08_deCamargo2026,TESTEX,randomization method described,PARTIAL,"Within-subject leg allocation described as randomized; exact randomization mechanism not detailed in the sections read",primary full text (preprint)
+P08_deCamargo2026,TESTEX,allocation concealment,NOT APPLICABLE,"within-subject unilateral design - allocation concealment in the RCT sense is less applicable; both legs of each participant received both conditions",primary full text (preprint)
+P08_deCamargo2026,TESTEX,groups similar at baseline,YES (by design),"Within-subject design inherently balances baseline characteristics between the two conditions (same participant, both legs)",primary full text (preprint)
+P08_deCamargo2026,TESTEX,outcome assessor blinding,INSUFFICIENT INFORMATION,not confirmed from the sections read,primary full text (preprint)
+P08_deCamargo2026,TESTEX,intention-to-treat analysis,NOT CLEARLY REPORTED,"29 randomized, 3 withdrew, 25 analyzed - ITT approach not explicitly confirmed",primary full text (preprint)
+P08_deCamargo2026,TESTEX,exercise volume/adherence reported,YES,"Actual weekly sets performed are reported precisely (VOL120=32.8+-5.9, VOL20=18.0+-3.3), suggesting close volume-load monitoring",primary full text (preprint)
+P08_deCamargo2026,ADDITIONAL NOTE,peer-review status,NOT PEER-REVIEWED,"This is a bioRxiv preprint - standard TESTEX judgments above describe the study's OWN reported methodology, but the manuscript itself has not undergone journal peer review, which is a separate and important caveat beyond any individual RoB domain",primary full text (preprint)

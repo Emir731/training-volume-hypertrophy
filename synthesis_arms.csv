@@ -1,0 +1,10 @@
+comparison_id,study_id,sample_id,study_label,weekly_sets,effect_size,significance_type,significant,effect_size_provenance,source_field
+C001,P01_Radaelli2015,S001,"Radaelli 2015 (untrained, elbow flexor MT)",6,0.1,within_group_pre_post,FALSE,author_reported,"reported_effect_size field, elbow flexor MT, 1-SET arm"
+C002,P01_Radaelli2015,S001,"Radaelli 2015 (untrained, elbow flexor MT)",18,0.73,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, elbow flexor MT, 3-SETS arm"
+C003,P01_Radaelli2015,S001,"Radaelli 2015 (untrained, elbow flexor MT)",30,1.1,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, elbow flexor MT, 5-SETS arm"
+C004,P02_Heaselgrave2019,S002,"Heaselgrave 2019 (trained, biceps MT)",9,0.33,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, LOW arm"
+C005,P02_Heaselgrave2019,S002,"Heaselgrave 2019 (trained, biceps MT)",18,0.66,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, MOD arm"
+C006,P02_Heaselgrave2019,S002,"Heaselgrave 2019 (trained, biceps MT)",27,0.37,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, HIGH arm"
+C007,P03_Aube2022,S003,"Aube 2022 (trained, sum thigh MT)",12,0.43,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, 12-SET SMT arm (Table 5)"
+C008,P03_Aube2022,S003,"Aube 2022 (trained, sum thigh MT)",18,0.34,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, 18-SET SMT arm (Table 5)"
+C009,P03_Aube2022,S003,"Aube 2022 (trained, sum thigh MT)",24,0.31,within_group_pre_post,TRUE,author_reported,"reported_effect_size field, 24-SET SMT arm (Table 5)"

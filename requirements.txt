@@ -1,0 +1,5 @@
+matplotlib>=3.7
+
+# Everything else used in this repository (csv, pathlib, sys) is part of
+# the Python standard library and needs no separate installation.
+# Tested with Python 3.11.
